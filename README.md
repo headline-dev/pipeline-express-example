@@ -15,4 +15,4 @@ npm run start
 
 ## Edit in Code Sandbox:
 
-[![Edit agitated-moon-26xku](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/agitated-moon-26xku?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit pipeline-express-react-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/headline-design/pipeline-express-example/tree/main/?fontsize=14&hidenavigation=1&theme=dark)
