@@ -4,9 +4,15 @@ It demonstrates the use of the pipeline-express-react package, an ultra-light li
 
 # Installation: 
 
+```bash
 npm install
 npm run start
+```
 
 ## Deploy on Vercel:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheadline-design%2Fpipeline-express-example)
+
+## Edit in Code Sandbox:
+
+[![Edit agitated-moon-26xku](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/agitated-moon-26xku?fontsize=14&hidenavigation=1&theme=dark)
